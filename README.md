@@ -8,7 +8,6 @@ A spotify clone project.
 * react native
 * typescript
 * styled components
-* typescript
 
 ## Getting Started
 ### installation:
